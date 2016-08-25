@@ -1,0 +1,12 @@
+#PLU Liste Beeren
+
++ Brombeeren
+   - PLU: 173
++ Deutsche Erdbeeren
+   - PLU: 47
++ Heidelbeeren
+   - PLU: 48
++ Himbeeren
+   - PLU: 75
++ Stachel-/ Johannisbeeren
+   - PLU: 88

@@ -1,0 +1,10 @@
+# PLU Liste Zitrus
+
++ Grapefruit
+    - PLU: 28
++ Limetten
+    - PLU: 35
++ Saftorangen
+    - PLU: 236
++ Zitronen
+    - PLU: 42

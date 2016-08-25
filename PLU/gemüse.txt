@@ -1,0 +1,30 @@
+# PLU Liste Gemüse
+
++ Auberginen
+    + PLU: 63
++ Avocado
+    + PLU: 45
++ Bobbybohnen / Breite Bohnen
+    - PLU: 37
++ Broccoli
+    - PLU: 32
++ Kohlrabi
+    - PLU: 61
++ Küchenkräuter
+    - PLU: 71
++ Lauch / Porree
+    - PLU: 15
++ Radieschen
+    - PLU: 70
++ Rettich
+    - PLU 109
++ Rote Beete vorgekocht
+    - PLU 127
++ Schlangengurken
+    - PLU: 5
++ Staudensellerie / Fenchel
+    - PLU: 232
++ Suppengemüse
+    - PLU: 40
++ Zucchini
+    - PLU: 68

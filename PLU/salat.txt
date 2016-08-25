@@ -1,0 +1,16 @@
+# PLU Liste Salat
+
++ BIO-Salatmix
+    - PLU: 78
++ Chicoree
+    - PLU: 20
++ Deutscher Eisbergsalat
+    - PLU: 36
++ Kopfsalat
+    - PLU: 72
++ Pflücksalat
+    - PLU: 44
++ Rucola
+    - PLU: 154
++ Salatherzen
+    - PLU: 52

@@ -1,0 +1,14 @@
+#PLU Liste Äpfel
+
+* Äpfel 1.5kg
+   - PLU: 11
+* Äpfel 3kg
+   - PLU: 12
+* Äpfel Braeburn
+   - PLU: 93
+* Äpfel Pink Lady
+   - PLU: 137
+* Äpfel Royal Gala
+   - PLU: 233
+* BIO-Äpfel
+   - PLU: 122 

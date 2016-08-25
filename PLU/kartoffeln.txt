@@ -1,0 +1,10 @@
+# PLU Liste Kartoffeln
+
++ BIO-Speisekartoffeln
+    - PLU: 3
++ Kartoffelspezialitäten
+    - PLU 151
++ Speisekartoffeln 2kg
+    - PLU: 8
++ Süßkartoffeln
+    - PLU: 156

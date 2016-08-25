@@ -1,0 +1,9 @@
+# PLU Liste Pilze
+
++ Champignon
+    - PLU: 26
++ BIO-Champignon
+    - PLU: 56
++ Pfifferlinge
+    - PLU: 133
+

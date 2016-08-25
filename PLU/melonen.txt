@@ -1,0 +1,14 @@
+# PLU Liste Melonen
+
++ Charentais Melonen
+    - PLU: 115
++ Galiamelone
+    - PLU: 41
++ Honigmelone / Melone Piel de Sapo
+    - PLU: 235
++ Mini-Wassermelone
+    - PLU: 174
++ Speisekürbis-Hokkaido
+    - PLU: 85
++ Wassermelone
+    - PLU: 57

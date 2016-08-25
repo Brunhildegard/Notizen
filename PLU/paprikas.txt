@@ -1,0 +1,10 @@
+# PLU Liste Paprikas
+
++ Paprika Mix
+    - PLU: 30
++ Paprika 500g
+    - PLU: 23
++ Spitzpaprika rot
+    - PLU 77
++ Snack-Paprika orange
+    - PLU: 39

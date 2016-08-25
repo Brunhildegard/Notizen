@@ -1,0 +1,8 @@
+# PLU Liste Zwiebeln
+
++ Knoblauch / Schalotten / Gemüsezwiebeln
+    - PLU: 24
++ Lauchzwiebeln
+    - PLU: 87
++ Speisezwiebeln rot / gelb
+    - PLU: 4

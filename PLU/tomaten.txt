@@ -1,0 +1,25 @@
+#PLU Liste Tomaten
+
+* Cherryrispentomaten 200g
+    - PLU: 6
+* Cocktailrispentomaten 500g
+    - PLU: 10
+* Rispentomaten 1000g 
+    - PLU: 43
+* Mini-Roma-Tomaten 300g
+    - PLU: 46
+* Deutsche Tomaten 650g
+    - PLU: 111
+* Datteltomaten 500g
+    - PLU: 165
+* BIO-Tomaten 500g
+    - PLU: 166
+* Romatomaten 500g
+    - PLU: 230
+* Cherryrispentomaten 350g
+    - PLU: 231
+
+ein Zitat
+
+> Hallo wie gehts denn so? 
+> gut oder ? 

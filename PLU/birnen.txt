@@ -1,0 +1,8 @@
+# PLU Liste Birnen
+
+* Brinen Limoneras 
+    - PLU: 33
+* Birnen rot
+    - PLU: 229
+* Birnen "Williams Christ"
+    - PLU: 206

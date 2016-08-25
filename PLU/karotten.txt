@@ -1,0 +1,8 @@
+# PLU Liste Karotten
+
++ BIO-Karotten
+    - PLU: 31
++ Karotten 2kg
+    - PLU: 118
++ Mini-Karotten
+    - PLU 179

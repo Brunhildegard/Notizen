@@ -1,0 +1,24 @@
+# PLU Liste Exoten
+
+* Ananas Extra Sweet
+    - PLU: 27
+* Aprikosen 1kg
+    - PLU: 22
+* Aprikosen 400g
+    - PLU: 105
+* Mango
+    - PLU: 66
+* Nektarinen gelbfleischig
+    - PLU: 17
+* Nektarinen Premium
+    - PLU: 69
+* Pfirsiche gelbfleischig
+    - PLU: 18
+* Pattpfirsiche
+    - PLU: 110
+* Kiwi Gold
+    - PLU: 2
+* Kiwi Grün
+    - PLU: 92
++ Zuckermais frisch
+    - PLU: 234

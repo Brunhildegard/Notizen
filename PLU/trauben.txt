@@ -1,0 +1,16 @@
+# PLU Liste Trauben
+
++ BIO-Trauben weiß / blau kernlos
+    - PLU: 79
++ Trauben blau kernlos
+    - PLU: 16
++ Trauben weiß kernlos
+    - PLU: 19
++ Trauben weiß / blau
+    - PLU: 146
++ Zwetschgen
+    - PLU: 114
++ Pflaumen
+    - PLU: 237
++ Kirschen
+    - PLU: 60
